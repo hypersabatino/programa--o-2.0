@@ -7,7 +7,7 @@ ul {
     list-style: none;
 }
 body { 
-    background-image: url(./css/fundo.jpg);
+background-image: url(./css/Fundo.jpg);
 background-position: top center;
 background-size: 100% auto;
 background-repeat: no-repeat;
@@ -88,7 +88,7 @@ border-radius: 8px;
     width: 70px;
     border: 1px solid #443E54;
 }
-/* animation */
+ animation
 header div {
     animation: fromtop .7s .2s backwards;
 }
